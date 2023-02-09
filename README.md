@@ -1,2 +1,1 @@
-we are gaming in Java, PHP, Laravel, Javascript, and C++
-Respectfully Jobless
+Mozart has been very calm since drake dropped his last album
