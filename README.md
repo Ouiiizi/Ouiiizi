@@ -1,3 +1,11 @@
-In an attempt to learn how to code on : Laravel , Java(OOP), C , C++ and many more as soon as I got the chance to learn on them.
-
-Worked on a nifty group based web project for a company; check it out here: https://dsquared.com.np
+Programming Languages I have worked on:
+Laravel
+C#
+LUA
+C
+PHP
+JAVA
+JavaScript 
+Python
+___________________
+All my reposotories are sample projects I have done in past. 
